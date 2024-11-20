@@ -16,7 +16,7 @@ Este projeto é uma aplicação de console desenvolvida em C# que realiza a conv
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/conversor.git
+   git clone https://github.com/Neiwone/conversor.git
    cd conversor
 2. Configure a chave da API:
 

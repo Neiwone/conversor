@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinicius\\source\\repos\\conversor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|c:\\users\\vinicius\\source\\repos\\conversor\\system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|solutionrelative:system.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|c:\\users\\vinicius\\source\\repos\\conversor\\ui\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|solutionrelative:ui\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|c:\\users\\vinicius\\source\\repos\\conversor\\models\\api_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|solutionrelative:models\\api_response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|c:\\users\\vinicius\\source\\repos\\conversor\\currency\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|solutionrelative:currency\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|c:\\users\\vinicius\\source\\repos\\conversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{521C318B-5A14-4DFC-AB56-BB4BE54252EB}|conversor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 309,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API_Response.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\source\\repos\\conversor\\models\\API_Response.cs",
+              "RelativeDocumentMoniker": "models\\API_Response.cs",
+              "ToolTip": "C:\\Users\\vinicius\\source\\repos\\conversor\\models\\API_Response.cs",
+              "RelativeToolTip": "models\\API_Response.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:19:08.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "System.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\source\\repos\\conversor\\System.cs",
+              "RelativeDocumentMoniker": "System.cs",
+              "ToolTip": "C:\\Users\\vinicius\\source\\repos\\conversor\\System.cs",
+              "RelativeToolTip": "System.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:44:35.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\source\\repos\\conversor\\currency\\Currency.cs",
+              "RelativeDocumentMoniker": "currency\\Currency.cs",
+              "ToolTip": "C:\\Users\\vinicius\\source\\repos\\conversor\\currency\\Currency.cs",
+              "RelativeToolTip": "currency\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:26:21.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\source\\repos\\conversor\\ui\\UserInterface.cs",
+              "RelativeDocumentMoniker": "ui\\UserInterface.cs",
+              "ToolTip": "C:\\Users\\vinicius\\source\\repos\\conversor\\ui\\UserInterface.cs",
+              "RelativeToolTip": "ui\\UserInterface.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:18:37.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinicius\\source\\repos\\conversor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vinicius\\source\\repos\\conversor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T21:17:29.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

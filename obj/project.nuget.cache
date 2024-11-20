@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KamBIUG30fQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinicius\\source\\repos\\conversor\\conversor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinicius\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

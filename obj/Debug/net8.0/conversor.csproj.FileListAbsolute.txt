@@ -1,0 +1,17 @@
+C:\Users\vinicius\source\repos\conversor\bin\Debug\net8.0\conversor.exe
+C:\Users\vinicius\source\repos\conversor\bin\Debug\net8.0\conversor.deps.json
+C:\Users\vinicius\source\repos\conversor\bin\Debug\net8.0\conversor.runtimeconfig.json
+C:\Users\vinicius\source\repos\conversor\bin\Debug\net8.0\conversor.dll
+C:\Users\vinicius\source\repos\conversor\bin\Debug\net8.0\conversor.pdb
+C:\Users\vinicius\source\repos\conversor\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\conversor.csproj.AssemblyReference.cache
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\conversor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\conversor.AssemblyInfoInputs.cache
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\conversor.AssemblyInfo.cs
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\conversor.csproj.CoreCompileInputs.cache
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\conversor.csproj.Up2Date
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\conversor.dll
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\refint\conversor.dll
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\conversor.pdb
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\conversor.genruntimeconfig.cache
+C:\Users\vinicius\source\repos\conversor\obj\Debug\net8.0\ref\conversor.dll
